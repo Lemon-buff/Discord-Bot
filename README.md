@@ -42,7 +42,7 @@ The bot can **join your voice channel**, **search and play YouTube music**, mana
 | Bot Framework | **discord.py** |
 | Audio Fetching | **yt-dlp** |
 | Streaming | **FFmpeg** |
-| Language | Python 3.10+ |
+| Language | Python 3.14 |
 
 ---
 git clone https://github.com/<your-username>/<your-repository>.git
